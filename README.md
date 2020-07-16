@@ -1,2 +1,2 @@
 # guessing-game
-GO Guessing Game
+GO Guessing Random Number Game
